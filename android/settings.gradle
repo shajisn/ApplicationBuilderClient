@@ -1,0 +1,3 @@
+rootProject.name = 'AppBuilderClient'
+
+include ':app'
